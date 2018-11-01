@@ -1,0 +1,88 @@
+# THE PRICE OF THE RANKS#
+
+legend.cost: 1000000
+ultra.cost: 2000000
+anon.cost: 3000000
+omega.cost: 4000000
+supreme.cost: 5000000
+plat.cost: 6000000
+rosit.cost: 7000000
+arcane.cost: 8000000
+colossal.cost: 9000000
+exotic.cost: 10000000
+
+# Text if the request was cancelled #
+
+cancelled: "§cYou left RankShopUI"
+
+# LEGEND MESSAGE #
+
+legend.content: "§fAre you sure you want to continue buying LEGEND Rank? It costs §2$1000000."
+legend.buy.success: "§aYou've successfully bought LEGEND Rank for §2$1000000."
+legend.no.money: "§cYou don't have enough money to buy LEGEND Rank."
+legend.cancelled: "§cYou've cancelled buying LEGEND Rank."
+
+# ULTRA MESSAGE #
+
+ultra.content: "§fAre you sure you want to continue buying ULTRA Rank? It costs §2$2000000."
+ultra.buy.success: "§aYou've successfully bought ULTRA Rank for §2$2000000."
+ultra.no.money: "§cYou don't have enough money to buy ULTRA Rank."
+ultra.cancelled: "§cYou've cancelled buying ULTRA Rank."
+
+# ANON MESSAGE #
+
+anon.content: "§fAre you sure you want to continue buying ANON Rank? It costs §2$3000000."
+anon.buy.success: "§aYou've successfully bought ANON Rank for §2$3000000."
+anon.no.money: "§cYou don't have enough money to buy ANON Rank."
+anon.cancelled: "§cYou've cancelled buying ANON Rank."
+
+# OMEGA MESSAGE #
+
+omega.content: "§fAre you sure you want to continue buying OMEGA Rank? It costs §2$4000000."
+omega.buy.success: "§aYou've successfully bought OMEGA Rank for §2$4000000."
+omega.no.money: "§cYou don't have enough money to buy OMEGA Rank."
+omega.cancelled: "§cYou've cancelled buying OMEGA Rank."
+
+# SUPREME MESSAGE #
+
+supreme.content: "§fAre you sure you want to continue buying SUPREME Rank? It costs §2$5000000."
+supreme.buy.success: "§aYou've successfully bought SUPREME Rank for §2$5000000."
+supreme.no.money: "§cYou don't have enough money to buy SUPREME Rank."
+supreme.cancelled: "§cYou've cancelled buying SUPREME Rank."
+
+# PLAT MESSAGE #
+
+plat.content: "§fAre you sure you want to continue buying PLAT Rank? It costs §2$6000000."
+plat.buy.success: "§aYou've successfully bought PLAT Rank for §2$6000000."
+plat.no.money: "§cYou don't have enough money to buy PLAT Rank."
+plat.cancelled: "§cYou've cancelled buying PLAT Rank."
+
+# ROSIT MESSAGE #
+
+rosit.content: "§fAre you sure you want to continue buying ROSIT Rank? It costs §2$7000000."
+rosit.buy.success: "§aYou've successfully bought ROSIT Rank for §2$7000000."
+rosit.no.money: "§cYou don't have enough money to buy ROSIT Rank."
+rosit.cancelled: "§cYou've cancelled buying ROSIT Rank."
+
+# ARCANE MESSAGE #
+
+arcane.content: "§fAre you sure you want to continue buying ARCANE Rank? It costs §2$8000000."
+arcane.buy.success: "§aYou've successfully bought ARCANE Rank for §2$8000000."
+arcane.no.money: "§cYou don't have enough money to buy ARCANE Rank."
+arcane.cancelled: "§cYou've cancelled buying ARCANE Rank."
+
+# COLOSSAL MESSAGE #
+
+colossal.content: "§fAre you sure you want to continue buying COLOSSAL Rank? It costs §2$9000000."
+colossal.buy.success: "§aYou've successfully bought COLOSSAL Rank for §2$9000000."
+colossal.no.money: "§cYou don't have enough money to buy COLOSSAL Rank."
+colossal.cancelled: "§cYou've cancelled buying COLOSSAL Rank."
+
+# EXOTIC MESSAGE #
+
+exotic.content: "§fAre you sure you want to continue buying EXOTIC Rank? It costs §2$10000000."
+exotic.buy.success: "§aYou've successfully bought EXOTIC Rank for §2$10000000."
+exotic.no.money: "§cYou don't have enough money to buy EXOTIC Rank."
+exotic.cancelled: "§cYou've cancelled buying EXOTIC Rank."
+
+...
